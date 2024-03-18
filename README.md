@@ -6,7 +6,7 @@ Hi, this repo is my practice analyzing a set of sample databases. It contains th
 
 ### 2/ Visualize by Looker Studio (Google Data Studio)
       - App Install Report
-      - Sales Performance Dashboard Report for F&B Industry.
+      - Food & Beverage Sales Analysis Dashboard.
 
 ### 3/ Python Code (On going)
 
