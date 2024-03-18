@@ -2,7 +2,7 @@
 
 Hi, this repo is my practice analyzing a set of sample databases. It contains the following as below:
 
-## 1 / SQL code
+### 1 / SQL code
 
 # 2/ App Install Report by Google Data Studio 
 
