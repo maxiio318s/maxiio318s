@@ -3,7 +3,7 @@
 Hi, this repo is my practice analyzing a set of sample databases. It contains the following as below:
 
 ### 1 / SQL code
-
+      - PorfolioSQL.sql
 ### 2/ Visualize by Looker Studio (Google Data Studio)
       - App Install Report
       - Food & Beverage Sales Analysis Dashboard.
