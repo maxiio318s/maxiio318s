@@ -4,7 +4,9 @@ Hi, this repo is my practice analyzing a set of sample databases. It contains th
 
 ### 1 / SQL code
 
-### 2/ App Install Report by Google Data Studio 
+### 2/ Visualize by Looker Studio (Google Data Studio)
+      - App Install Report
+      - Sales Performance Dashboard Report for F&B Industry.
 
 ### 3/ Python Code (On going)
 
