@@ -4,10 +4,10 @@ Hi, this repo is my practice analyzing a set of sample databases. It contains th
 
 ### 1 / SQL code
 
-# 2/ App Install Report by Google Data Studio 
+### 2/ App Install Report by Google Data Studio 
 
-# 3/ Python Code (On going)
+### 3/ Python Code (On going)
 
-# 4/ Dashboard built by Tableau (On going)
+### 4/ Dashboard built by Tableau (On going)
 
 Thanks for having a look!
