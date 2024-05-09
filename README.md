@@ -1,4 +1,4 @@
-# Christ_Porfolio
+# Christ_Portfolio
 
 Hi, this repo is my practice analyzing a set of sample databases. It contains the following as below:
 
